@@ -1,4 +1,4 @@
-FROM nodered/node-red-docker:latest
+FROM nodered/node-red-docker:v8
 
 RUN npm install \
   node-red-contrib-ftp \
