@@ -8,4 +8,5 @@ RUN npm install \
   node-red-contrib-time-range-switch \
   node-red-contrib-mi-devices \
   node-red-contrib-credentials \
+  node-red-contrib-ftp \
   ftp
